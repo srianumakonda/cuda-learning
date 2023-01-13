@@ -1,0 +1,2 @@
+C:\Users\srian\Desktop\cuda learning\cs344\code\x64\Debug\code.exe
+C:\Users\srian\Desktop\cuda learning\cs344\square\x64\Debug\code.exe

@@ -1,0 +1,7 @@
+﻿  Compiling CUDA source file cube.cu...
+  
+  C:\Users\srian\Desktop\cuda learning\cs344\cube>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o "C:\Users\srian\Desktop\cuda learning\cs344\cube\x64\Debug\cube.cu.obj" "C:\Users\srian\Desktop\cuda learning\cs344\cube\cube.cu" 
+  cube.cu
+     Creating library C:\Users\srian\Desktop\cuda learning\cs344\cube\x64\Debug\cube.lib and object C:\Users\srian\Desktop\cuda learning\cs344\cube\x64\Debug\cube.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  cube.vcxproj -> C:\Users\srian\Desktop\cuda learning\cs344\cube\x64\Debug\cube.exe
