@@ -1,0 +1,9 @@
+﻿  compare.cpp
+C:\Users\srian\Desktop\cuda learning\cs344\Problem Set 1 - Convert RGB Images to Grayscale\compare.cpp(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  HW1.cpp
+C:\Users\srian\Desktop\cuda learning\cs344\Problem Set 1 - Convert RGB Images to Grayscale\HW1.cpp(1,10): fatal  error C1083: Cannot open include file: 'opencv2/core/core.hpp': No such file or directory
+  main.cpp
+C:\Users\srian\Desktop\cuda learning\cs344\Problem Set 1 - Convert RGB Images to Grayscale\timer.h(4,10): fatal  error C1083: Cannot open include file: 'cuda_runtime.h': No such file or directory
+  reference_calc.cpp
+C:\Users\srian\Desktop\cuda learning\cs344\Problem Set 1 - Convert RGB Images to Grayscale\reference_calc.cpp(2,10): fatal  error C1083: Cannot open include file: 'cuda_runtime.h': No such file or directory
+  Generating Code...

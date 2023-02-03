@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem Set 2 - Blur an Image", "Problem Set 2 - Blur an Image.vcxproj", "{CFE74EF6-42F5-49D7-A232-C664078A0A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE74EF6-42F5-49D7-A232-C664078A0A71}.Debug|x64.ActiveCfg = Debug|x64
+		{CFE74EF6-42F5-49D7-A232-C664078A0A71}.Debug|x64.Build.0 = Debug|x64
+		{CFE74EF6-42F5-49D7-A232-C664078A0A71}.Release|x64.ActiveCfg = Release|x64
+		{CFE74EF6-42F5-49D7-A232-C664078A0A71}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F28F8917-8191-4B34-90B3-1D788587C3C6}
+	EndGlobalSection
+EndGlobal
